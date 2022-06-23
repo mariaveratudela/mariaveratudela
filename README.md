@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariaveratudela
 - 👀 I’m interested in social projects and sustainability
-- 🌱 I’m currently studying mechatronics engineering
+- 🌱 Bachelor in mechatronics engineering
 - 📫 How to reach me: beacons.ai/maria.veratudela
 
 <!---
